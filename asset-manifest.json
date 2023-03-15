@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Code-da-Vinci/static/css/main.4bb4e0f0.css",
+    "main.js": "/Code-da-Vinci/static/js/main.63fe18b2.js",
+    "index.html": "/Code-da-Vinci/index.html",
+    "main.4bb4e0f0.css.map": "/Code-da-Vinci/static/css/main.4bb4e0f0.css.map",
+    "main.63fe18b2.js.map": "/Code-da-Vinci/static/js/main.63fe18b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bb4e0f0.css",
+    "static/js/main.63fe18b2.js"
+  ]
+}
